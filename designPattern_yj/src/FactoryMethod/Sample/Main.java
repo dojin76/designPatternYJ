@@ -1,3 +1,7 @@
+package FactoryMethod.Sample;
+
+
+
 import framework.*;
 import idcard.*;
 

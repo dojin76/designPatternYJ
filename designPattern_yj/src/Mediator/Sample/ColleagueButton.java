@@ -1,3 +1,5 @@
+package Mediator.Sample;
+
 import java.awt.Button;
 
 public class ColleagueButton extends Button implements Colleague {

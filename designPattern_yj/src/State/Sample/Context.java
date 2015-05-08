@@ -1,3 +1,5 @@
+package State.Sample;
+
 public interface Context {
 
     public abstract void setClock(int hour);                // 시간설정

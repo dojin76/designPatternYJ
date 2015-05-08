@@ -1,3 +1,5 @@
+package Observer.A1;
+
 public class IncrementalNumberGenerator extends NumberGenerator {
     private int number;                    // 현재의 수
     private int end;                        // 종료값(이 값을 포함하지 않는다)

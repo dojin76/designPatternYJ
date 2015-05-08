@@ -1,3 +1,6 @@
+package Memento.Sample;
+
+
 import game.Memento;
 import game.Gamer;
 

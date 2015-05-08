@@ -1,3 +1,5 @@
+package Mediator.A1;
+
 import java.awt.Checkbox;
 import java.awt.CheckboxGroup;
 import java.awt.event.ItemListener;

@@ -1,4 +1,5 @@
 package AbstractFactory.A2.listfactory;
+
 import factory.*;
 
 public class ListFactory extends Factory {

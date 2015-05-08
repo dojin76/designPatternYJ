@@ -1,3 +1,5 @@
+package State.A3;
+
 public interface Context {
 
     public abstract void setClock(int hour);                // 시간설정

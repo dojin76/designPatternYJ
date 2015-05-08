@@ -1,3 +1,5 @@
+package Decorator.A2;
+
 public class StringDisplay extends Display {
     private String string;                         
     public StringDisplay(String string) {          

@@ -1,3 +1,5 @@
+package Mediator.Sample;
+
 import java.awt.TextField;
 import java.awt.Color;
 import java.awt.event.TextListener;

@@ -1,3 +1,6 @@
+package Facade.A2;
+
+
 import pagemaker.PageMaker;
 
 public class Main {

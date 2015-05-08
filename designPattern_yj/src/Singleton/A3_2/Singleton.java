@@ -1,3 +1,5 @@
+package Singleton.A3_2;
+
 public class Singleton {
     private static Singleton singleton = null;
     private Singleton() {

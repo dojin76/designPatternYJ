@@ -1,3 +1,5 @@
+package Composite.Sample;
+
 public class FileTreatmentException extends RuntimeException {      
     public FileTreatmentException() {
     }

@@ -1,3 +1,6 @@
+package Prototype.Sample;
+
+
 import framework.*;
 
 public class Main {

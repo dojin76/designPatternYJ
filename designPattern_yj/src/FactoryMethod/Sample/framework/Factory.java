@@ -1,4 +1,4 @@
-package framework;
+package FactoryMethod.Sample.framework;
 
 public abstract class Factory {
     public final Product create(String owner) {

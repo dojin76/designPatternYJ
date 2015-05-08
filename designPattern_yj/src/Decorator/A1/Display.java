@@ -1,3 +1,5 @@
+package Decorator.A1;
+
 public abstract class Display {
     public abstract int getColumns();               
     public abstract int getRows();                  

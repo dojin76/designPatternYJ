@@ -1,3 +1,5 @@
+package TemplateMethod.Sample;
+
 public class Main {
     public static void main(String[] args) {
 	// 'H'을 가진 CharDisplay 인스턴스를 1개 만든다>

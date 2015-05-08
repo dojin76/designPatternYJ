@@ -1,3 +1,5 @@
+package Prototype.Sample;
+
 import framework.*;
 
 public class MessageBox implements Product {

@@ -1,3 +1,5 @@
+package Flyweight.A2;
+
 import java.util.HashMap;
 
 public class BigCharFactory {

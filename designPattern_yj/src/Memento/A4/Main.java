@@ -1,3 +1,6 @@
+package Memento.A4;
+
+
 import game.Memento;
 import game.Gamer;
 import java.io.*;

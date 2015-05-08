@@ -1,4 +1,5 @@
-package game;
+package Memento.Sample.game;
+
 import java.util.*;
 
 public class Gamer {

@@ -1,3 +1,5 @@
+package TemplateMethod.Sample;
+
 public class StringDisplay extends AbstractDisplay {    // StringDisplay도 
 // AbstrctDisplay의 하위 클래스.
     private String string;                            // 표시해야 할 문자열.

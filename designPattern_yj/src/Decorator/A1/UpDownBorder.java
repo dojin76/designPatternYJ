@@ -1,3 +1,5 @@
+package Decorator.A1;
+
 public class UpDownBorder extends Border {
     private char borderChar;                        // 장식이 되는 문자
     public UpDownBorder(Display display, char ch) {  // 생성자에서 Display와 장식문자를 지정 

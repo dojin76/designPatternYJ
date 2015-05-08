@@ -1,3 +1,5 @@
+package Visitor.Sample;
+
 import java.util.Iterator;
 
 public class ListVisitor extends Visitor {

@@ -1,3 +1,5 @@
+package Decorator.A1;
+
 public class SideBorder extends Border {
     private char borderChar;                       
     public SideBorder(Display display, char ch) {  

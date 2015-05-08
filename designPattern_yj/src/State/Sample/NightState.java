@@ -1,3 +1,5 @@
+package State.Sample;
+
 public class NightState implements State {
     private static NightState singleton = new NightState();
     private NightState() {                              // 생성자는 private

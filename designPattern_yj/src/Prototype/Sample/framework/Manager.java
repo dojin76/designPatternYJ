@@ -1,4 +1,5 @@
-package framework;
+package Prototype.Sample.framework;
+
 import java.util.*;
 
 public class Manager {

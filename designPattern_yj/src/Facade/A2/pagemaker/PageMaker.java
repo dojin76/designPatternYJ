@@ -1,4 +1,4 @@
-package pagemaker;
+package Facade.A2.pagemaker;
 
 import java.io.FileWriter;
 import java.io.IOException;

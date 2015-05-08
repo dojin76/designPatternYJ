@@ -1,3 +1,5 @@
+package Strategy.Sample;
+
 public class Player {
     private String name;
     private Strategy strategy;

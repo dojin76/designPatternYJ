@@ -1,3 +1,5 @@
+package Strategy.Q4;
+
 import java.lang.Comparable;
 
 public interface Sorter {

@@ -1,3 +1,5 @@
+package Flyweight.Sample;
+
 public class BigString {
     // ¡¸Å« ¹®ÀÚ¡¹
     private BigChar[] bigchars;

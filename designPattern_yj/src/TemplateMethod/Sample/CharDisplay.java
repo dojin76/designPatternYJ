@@ -1,3 +1,5 @@
+package TemplateMethod.Sample;
+
 public class CharDisplay extends AbstractDisplay {  // CharDisplay는 AbstractDisplay의 
 // 하위 클래스.
     private char ch;                              // 표시해야 할 문자

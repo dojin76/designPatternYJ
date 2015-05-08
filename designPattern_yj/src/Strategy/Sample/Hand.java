@@ -1,3 +1,5 @@
+package Strategy.Sample;
+
 public class Hand {
     public static final int HANDVALUE_GUU = 0;  // 주먹을 표시하는 값
     public static final int HANDVALUE_CHO = 1;  // 가위를 표시하는 값

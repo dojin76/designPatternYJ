@@ -1,4 +1,5 @@
-package game;
+package Memento.A4.game;
+
 import java.io.*;
 import java.util.*;
 

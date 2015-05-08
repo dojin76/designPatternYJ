@@ -1,3 +1,5 @@
+package Decorator.Sample;
+
 public abstract class Display {
     public abstract int getColumns();               
     public abstract int getRows();                  

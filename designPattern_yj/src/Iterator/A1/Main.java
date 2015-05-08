@@ -1,3 +1,5 @@
+package Iterator.A1;
+
 import java.util.*;
 
 public class Main {

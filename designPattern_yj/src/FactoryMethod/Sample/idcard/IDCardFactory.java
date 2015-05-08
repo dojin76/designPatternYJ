@@ -1,4 +1,5 @@
-package idcard;
+package FactoryMethod.Sample.idcard;
+
 import framework.*;
 import java.util.*;
 

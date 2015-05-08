@@ -1,3 +1,7 @@
+package FactoryMethod.A2;
+
+
+
 import framework.*;
 import idcard.*;
 

@@ -1,3 +1,5 @@
+package Visitor.A2;
+
 import java.util.Iterator;
 
 public class SizeVisitor extends Visitor {

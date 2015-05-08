@@ -1,3 +1,5 @@
+package Observer.A2;
+
 import java.awt.Frame;
 import java.awt.TextField;
 import java.awt.Canvas;

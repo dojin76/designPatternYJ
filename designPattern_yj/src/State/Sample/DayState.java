@@ -1,3 +1,5 @@
+package State.Sample;
+
 public class DayState implements State {
     private static DayState singleton = new DayState();
     private DayState() {                               // 생성자는 private
